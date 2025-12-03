@@ -9,8 +9,9 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ### Streak
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Russel-Lalo&theme=dark&hide_border=true)
-
+</p>
 
 ---
 
