@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)
-![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-gray?style=for-the-badge&logo=tailwind-css)
 ![MERN](https://img.shields.io/badge/-MERN-gray?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-gray?style=for-the-badge&logo=node.js)
