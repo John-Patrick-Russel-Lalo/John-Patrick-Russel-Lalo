@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![REST API](https://img.shields.io/badge/-REST-black?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/-Socketdotio-black?style=for-the-badge&logo=socketdotio)
+![Socket.IO](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socketdotio)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
 ![GDScript](https://img.shields.io/badge/-GDScript-black?style=for-the-badge&logo=godot-engine)
