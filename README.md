@@ -4,16 +4,22 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-skyblue?style=for-the-badge&logo=tailwind-css)
+![MERN](https://img.shields.io/badge/-MERN-purple?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/-REST-ff6f61?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/-WebSocket-9cf?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![GDScript](https://img.shields.io/badge/-GDScript-white?style=for-the-badge&logo=godot-engine)
 
 ---
 
-## 🚀 Projects
+## Projects
 - **TeamPlanner** – A Trello-like web app with real-time collaboration.  
 - **EcoTrack** – GPS-based web app for tracking trash collection efficiently.  
 
