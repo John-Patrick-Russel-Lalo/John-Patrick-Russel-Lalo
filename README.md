@@ -8,5 +8,6 @@ Game developer | Web dev | Business analytics student
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Russel-Lalo&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Russel-Lalo&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 
