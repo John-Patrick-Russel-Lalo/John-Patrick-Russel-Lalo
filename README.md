@@ -5,17 +5,12 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 
 ![](https://github-trophies.vercel.app/?username=John-Patrick-Russel-Lalo&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
+---
 ### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
-### Streak
-<div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=John-Patrick-Russel-Lalo&theme=dark&hide_border=true)
-</div>
-
 ---
-
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
