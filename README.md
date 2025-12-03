@@ -7,6 +7,6 @@ Game developer | Web dev | Business analytics student
 ![React](https://img.shields.io/badge/-React-blue)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Patrick-Russel-Lalo&show_icons=true&theme=tokyonight)
 
 
