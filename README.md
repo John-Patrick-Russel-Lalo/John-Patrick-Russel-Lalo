@@ -2,8 +2,11 @@
 
 Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blending creativity with analytics. I love building cool projects, experimenting with code, and leveling up my skills.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=John-Patrick-Russel-Lalo&theme=darkhub&row=1)](https://github.com/John-Patrick-Russel-Lalo)
 
+![](https://github-trophies.vercel.app/?username=John-Patrick-Russel-Lalo&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
