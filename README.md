@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
 ![GDScript](https://img.shields.io/badge/-GDScript-black?style=for-the-badge&logo=godot-engine)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render)
 
 ---
 
