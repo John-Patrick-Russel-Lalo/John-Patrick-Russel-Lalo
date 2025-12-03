@@ -6,16 +6,16 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)
-![CSS](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-white?style=for-the-badge&logo=tailwind-css)
-![MERN](https://img.shields.io/badge/-MERN-white?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-white?style=for-the-badge&logo=node.js)
-![REST API](https://img.shields.io/badge/-REST-white?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/-WebSocket-white?style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-white?style=for-the-badge&logo=c%2B%2B)
-![GDScript](https://img.shields.io/badge/-GDScript-white?style=for-the-badge&logo=godot-engine)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![MERN](https://img.shields.io/badge/-MERN-black?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/-REST-black?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
+![GDScript](https://img.shields.io/badge/-GDScript-black?style=for-the-badge&logo=godot-engine)
 
 ---
 
