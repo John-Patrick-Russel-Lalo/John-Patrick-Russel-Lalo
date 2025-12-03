@@ -2,15 +2,8 @@
 
 Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blending creativity with analytics. I love building cool projects, experimenting with code, and leveling up my skills.  
 
-
-![](https://github-trophies.vercel.app/?username=John-Patrick-Russel-Lalo&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
 ---
-### Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
----
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
@@ -27,6 +20,16 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 ![Render](https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render)
 
 ---
+
+![](https://github-trophies.vercel.app/?username=John-Patrick-Russel-Lalo&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+---
+### Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+---
+
 
 ## Projects
 - **TeamPlanner** – A Trello-like web app with real-time collaboration.  
