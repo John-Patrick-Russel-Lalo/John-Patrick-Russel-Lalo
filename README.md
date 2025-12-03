@@ -1,4 +1,4 @@
-# Hellooo, I am Patrick
+# ```Hellooo, I'm Patrick```
 
 Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blending creativity with analytics. I love building cool projects, experimenting with code, and leveling up my skills.  
 
