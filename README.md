@@ -6,7 +6,6 @@ Game developer | Web dev | Business analytics student
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![React](https://img.shields.io/badge/-React-blue)
 
-
-![GitHub Stats](https://github-readme-stats-zeta-one-62.vercel.app/api?username=John-Patrick-Russel-Lalo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=john-patrick-russel-lalo)](https://github.com/anuraghazra/github-readme-stats)
 
 
