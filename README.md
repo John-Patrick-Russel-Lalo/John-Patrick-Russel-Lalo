@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 
 ---
 
-![](https://github-trophies.vercel.app/?username=John-Patrick-Russel-Lalo&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
 
 ---
 ### Random Dev Quote
