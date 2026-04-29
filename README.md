@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 
 ---
 ### Random Dev Quote
-
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
+</p>
 ---
 
 
