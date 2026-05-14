@@ -21,7 +21,11 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 
 ---
 
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-seven-tan.vercel.app?user=John-Patrick-Russel-Lalo&theme=vitesse&date_format=j%20M%5B%20Y%5D&mode=weekly"alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 ### Random Dev Quote
