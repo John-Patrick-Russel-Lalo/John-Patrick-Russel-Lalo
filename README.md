@@ -1,4 +1,4 @@
-<div align="center"><strong>Hellooo, I'm Patrick</strong></div>
+<div align="center"><strong><h1>Hellooo, I'm Patrick</h1></strong></div>
 
 Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blending creativity with analytics. I love building cool projects, experimenting with code, and leveling up my skills.  
 
