@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a **game developer & web dev enthusiast** blen
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css&logoColor=663399)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![REST API](https://img.shields.io/badge/-REST-black?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socketdotio)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
